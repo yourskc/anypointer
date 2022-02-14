@@ -6,12 +6,8 @@ viewing angle. The APP will periodically send UDP socket to the target. please s
 
 and interval first then press Start button.
 
-   
+![APP](document/images/ai2_s01.jpg)
 
-
-APP screen + flowchart
-
-<img src="document/images/moil_remote.gif">
 
 ## 1. APP 
 
